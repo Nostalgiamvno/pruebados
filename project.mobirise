@@ -746,8 +746,8 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide-2-mesa-de-trabajo-1-copia-5-2000x1125.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slide-prodigy-mesa-de-trabajo-1-copia-5-2000x1125.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -766,7 +766,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide-3-mesa-de-trabajo-1-copia-6-2000x1125.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
