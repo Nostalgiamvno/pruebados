@@ -768,11 +768,11 @@
                 "overlayColor": "#df4c00"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide-recargas-2-mesa-de-trabajo-1-copia-4-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recargas-texto-2-mesa-de-trabajo-1-copia-4-2000x1125.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
-                "showTitle": true,
+                "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
@@ -781,9 +781,9 @@
                 "title": "<b>Recargas Nacionales e Internacionales</b><br><b><br></b>",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Hacemos recargas de los principales operadores de telefonía móvil.",
+                "text": "<br><br><br>e los pri",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Conoce más</a> ",
-                "overlayOpacity": "0.2",
+                "overlayOpacity": "0",
                 "overlayColor": "#000000"
               },
               {
