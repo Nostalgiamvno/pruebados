@@ -793,7 +793,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide-mviles-mesa-de-trabajo-1-copia-7-2000x1125.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -811,7 +811,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ac-mesa-de-trabajo-1-copia-5-2000x1125.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -826,24 +826,6 @@
                 "text": "<br><br><br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Conoce más</a> ",
                 "overlayOpacity": "0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/ac2-mesa-de-trabajo-1-copia-8-2000x1125.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-1",
-                "customStyle3": "display-4",
-                "title": "<b></b>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "<b>Accesorios móviles para tu </b><br><b>Smartphone</b><br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Conoce más</a> ",
-                "overlayOpacity": "0.1"
               }
             ]
           }
