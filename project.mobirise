@@ -712,10 +712,10 @@
             },
             "P": {
               "text-align": "left",
-              "color": "#023d55"
+              "color": "#ffffff"
             },
             "B": {
-              "color": "#023d55"
+              "color": "#ffffff"
             }
           },
           "_name": "slider1",
@@ -810,7 +810,7 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/acc-mesa-de-trabajo-1-copia-5-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ac-mesa-de-trabajo-1-copia-5-2000x1125.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -820,10 +820,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<font color=\"#023d55\"><b>Accesorios móviles</b></font><br><b><br></b>",
+                "title": "<b></b>",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Encuentra todos los complementos que tu Smartphone necesita<br><br>",
+                "text": "<br><br><br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Conoce más</a> ",
                 "overlayOpacity": "0"
               }
