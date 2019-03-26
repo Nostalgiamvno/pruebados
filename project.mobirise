@@ -754,7 +754,7 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide-prodigy-mesa-de-trabajo-1-copia-5-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide-operador-prodigy-marzo-mesa-de-trabajo-1-copia-6-2000x1125.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -773,7 +773,7 @@
                 "overlayColor": "#df4c00"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide-recargas-marzo-final-mesa-de-trabajo-1-copia-4-mesa-de-trabajo-1-copia-4-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide-recargas-marzo-final-mesa-de-trabajo-1-copia-4-mesa-de-trabajo-1-copia-4-mesa-de-trabajo-1-copia-4-2000x1125.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
