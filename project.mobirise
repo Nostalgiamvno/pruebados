@@ -773,8 +773,8 @@
                 "overlayColor": "#df4c00"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide-recargas-3-mesa-de-trabajo-1-copia-4-2000x1125.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slide-recargas-marzo-final-mesa-de-trabajo-1-copia-4-2000x1125.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
@@ -810,8 +810,8 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/ac-mesa-de-trabajo-1-copia-5-2000x1125.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/accesorios-marzo-final-web-mesa-de-trabajo-1-copia-5-2000x1125.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
