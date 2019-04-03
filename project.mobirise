@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NOSTALGIA",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2434,10 +2434,10 @@
               "background-color": "@bg-value"
             },
             "H1": {
-              "color": "#e94f1e"
+              "color": "#df4c00"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#023d55"
+              "color": "#27456c"
             }
           },
           "_name": "header2",
